@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sachin.techwob@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://twitter.com/sachin_patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachin_patel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sachin patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin patel" height="30" width="40" /></a>
